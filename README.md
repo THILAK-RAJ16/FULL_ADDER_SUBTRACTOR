@@ -38,6 +38,16 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**Full Adder**
+
+![WhatsApp Image 2024-12-21 at 09 58 42_90a8f72b](https://github.com/user-attachments/assets/ee5a9898-0bf0-446f-b94c-80854af6656d)
+
+
+**Full Subtractor**
+
+![WhatsApp Image 2024-12-21 at 09 59 01_1159e08f](https://github.com/user-attachments/assets/5b1297be-8ec4-4987-9df7-d9318f5617f7)
+
+
 **Procedure**
 
 1. Type the program in Quartus software.
