@@ -86,12 +86,20 @@ RegisterNumber:24900585
 
 
 **RTL**
+
+**Full Adder**
 ![Screenshot 2024-11-05 142611](https://github.com/user-attachments/assets/3107b83c-8de1-42e9-b5fc-33e0d4a8581f)
-![Screenshot 2024-11-05 144004](https://github.com/user-attachments/assets/6caef989-4996-40c4-b9de-373a4cd71669)
+**Full Subtractor**
+![image](https://github.com/user-attachments/assets/98730d7d-7a09-4a12-8ebf-4c4efe5b1083)
+
 
 **Output Timing Waveform**
+
+**Full Adder**
 ![Screenshot 2024-11-05 143802](https://github.com/user-attachments/assets/fb40bf17-f250-40bf-bcea-d0916fe34351)
-![image](https://github.com/user-attachments/assets/2353d5e3-0e19-4571-9923-6239281345ec)
+**Full Subtractor**
+![image](https://github.com/user-attachments/assets/2a15ebe2-e125-4cd0-9701-f82d0dfe8a62)
+
 
 **Result:**
 
